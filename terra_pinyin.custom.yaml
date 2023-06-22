@@ -276,3 +276,4 @@ translator:
   spelling_hints: 5
 patch:
   recognizer/patterns/reverse_lookup:
+  translator/dictionary: my

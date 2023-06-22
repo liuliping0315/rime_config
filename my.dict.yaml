@@ -1,0 +1,20 @@
+---
+name: my
+version: "0.1"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+    - terra_pinyin
+    - THU/THUOCL_IT
+    - THU/THUOCL_animal
+    - THU/THUOCL_caijing
+    - THU/THUOCL_car
+    - THU/THUOCL_chengyu
+    - THU/THUOCL_diming
+    - THU/THUOCL_food
+    - THU/THUOCL_law
+    - THU/THUOCL_lishimingren
+    - THU/THUOCL_medical
+    - THU/THUOCL_poem
+    - THU/sogou_new_words
+    - THU/zhwiki
