@@ -17,6 +17,7 @@ patch:
     - {accept: bracketright, send: Page_Down, when: has_menu}
     - {accept: minus, send: Page_Up, when: paging}
     - {accept: equal, send: Page_Down, when: has_menu}
+    - {accept: KP_Enter, send: Return, when: composing}
   "menu/page_size": 5
   schema_list:
     - {schema: terra_pinyin}
